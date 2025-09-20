@@ -1,5 +1,7 @@
 # Sales-Analytics-Dashboard-PowerBI
 📊 Sales &amp; Shipment Analytics Dashboard (Power BI)  This project contains an interactive Power BI dashboard that provides insights into global sales and shipping performance. The dashboard is designed to help businesses track product-wise sales, shipment distribution, and revenue trends over time.
+
+
 🔍 Key Features
 
 Country-wise Shipment Analysis – Visualizes the number of boxes shipped across different countries.
